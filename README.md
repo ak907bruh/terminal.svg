@@ -1,1 +1,3 @@
-![Terminal Animation](https://raw.githubusercontent.com/ak907bruh/ak907bruh/main/terminal.svg)
+<div align="center">
+  <img src="terminal.svg" alt="marcimastro98" width="100%">
+</div>
